@@ -1,0 +1,16 @@
+C:\Users\Syamsir-Sarul\source\repos\T4\T4\bin\Debug\T4.exe.config
+C:\Users\Syamsir-Sarul\source\repos\T4\T4\bin\Debug\T4.exe
+C:\Users\Syamsir-Sarul\source\repos\T4\T4\bin\Debug\T4.pdb
+C:\Users\Syamsir-Sarul\source\repos\T4\T4\bin\Debug\T4.xml
+C:\Users\Syamsir-Sarul\source\repos\T4\T4\obj\Debug\T4.vbprojAssemblyReference.cache
+C:\Users\Syamsir-Sarul\source\repos\T4\T4\obj\Debug\T4.Form1.resources
+C:\Users\Syamsir-Sarul\source\repos\T4\T4\obj\Debug\T4.Resources.resources
+C:\Users\Syamsir-Sarul\source\repos\T4\T4\obj\Debug\T4.vbproj.GenerateResource.cache
+C:\Users\Syamsir-Sarul\source\repos\T4\T4\obj\Debug\T4.vbproj.CoreCompileInputs.cache
+C:\Users\Syamsir-Sarul\source\repos\T4\T4\obj\Debug\T4.exe
+C:\Users\Syamsir-Sarul\source\repos\T4\T4\obj\Debug\T4.xml
+C:\Users\Syamsir-Sarul\source\repos\T4\T4\obj\Debug\T4.pdb
+C:\Users\Syamsir-Sarul\source\repos\T4\T4\obj\Debug\T4.Loading.resources
+C:\Users\Syamsir-Sarul\source\repos\T4\T4\obj\Debug\SYAMSIR_2109106090_T4.Form1.resources
+C:\Users\Syamsir-Sarul\source\repos\T4\T4\obj\Debug\SYAMSIR_2109106090_T4.Loading.resources
+C:\Users\Syamsir-Sarul\source\repos\T4\T4\obj\Debug\SYAMSIR_2109106090_T4.Resources.resources

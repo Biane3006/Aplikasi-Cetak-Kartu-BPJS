@@ -1,0 +1,13 @@
+C:\Users\Syamsir-Sarul\source\repos\SYAMSIR_2109106090_T5\SYAMSIR_2109106090_T5\obj\Debug\SYAMSIR_2109106090_T5.vbprojAssemblyReference.cache
+C:\Users\Syamsir-Sarul\source\repos\SYAMSIR_2109106090_T5\SYAMSIR_2109106090_T5\obj\Debug\SYAMSIR_2109106090_T5.Form1.resources
+C:\Users\Syamsir-Sarul\source\repos\SYAMSIR_2109106090_T5\SYAMSIR_2109106090_T5\obj\Debug\SYAMSIR_2109106090_T5.Loading.resources
+C:\Users\Syamsir-Sarul\source\repos\SYAMSIR_2109106090_T5\SYAMSIR_2109106090_T5\obj\Debug\SYAMSIR_2109106090_T5.Resources.resources
+C:\Users\Syamsir-Sarul\source\repos\SYAMSIR_2109106090_T5\SYAMSIR_2109106090_T5\obj\Debug\SYAMSIR_2109106090_T5.vbproj.GenerateResource.cache
+C:\Users\Syamsir-Sarul\source\repos\SYAMSIR_2109106090_T5\SYAMSIR_2109106090_T5\obj\Debug\SYAMSIR_2109106090_T5.vbproj.CoreCompileInputs.cache
+C:\Users\Syamsir-Sarul\source\repos\SYAMSIR_2109106090_T5\SYAMSIR_2109106090_T5\bin\Debug\SYAMSIR_2109106090_T5.exe.config
+C:\Users\Syamsir-Sarul\source\repos\SYAMSIR_2109106090_T5\SYAMSIR_2109106090_T5\bin\Debug\SYAMSIR_2109106090_T5.exe
+C:\Users\Syamsir-Sarul\source\repos\SYAMSIR_2109106090_T5\SYAMSIR_2109106090_T5\bin\Debug\SYAMSIR_2109106090_T5.pdb
+C:\Users\Syamsir-Sarul\source\repos\SYAMSIR_2109106090_T5\SYAMSIR_2109106090_T5\bin\Debug\SYAMSIR_2109106090_T5.xml
+C:\Users\Syamsir-Sarul\source\repos\SYAMSIR_2109106090_T5\SYAMSIR_2109106090_T5\obj\Debug\SYAMSIR_2109106090_T5.exe
+C:\Users\Syamsir-Sarul\source\repos\SYAMSIR_2109106090_T5\SYAMSIR_2109106090_T5\obj\Debug\SYAMSIR_2109106090_T5.xml
+C:\Users\Syamsir-Sarul\source\repos\SYAMSIR_2109106090_T5\SYAMSIR_2109106090_T5\obj\Debug\SYAMSIR_2109106090_T5.pdb

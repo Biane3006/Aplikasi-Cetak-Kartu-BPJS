@@ -1,0 +1,16 @@
+C:\Users\Syamsir-Sarul\source\repos\SYAMSIR_2109106090_T6\SYAMSIR_2109106090_T6\obj\Debug\SYAMSIR_2109106090_T6.vbproj.GenerateResource.cache
+C:\Users\Syamsir-Sarul\source\repos\SYAMSIR_2109106090_T6\SYAMSIR_2109106090_T6\obj\Debug\SYAMSIR_2109106090_T6.Form1.resources
+C:\Users\Syamsir-Sarul\source\repos\SYAMSIR_2109106090_T6\SYAMSIR_2109106090_T6\obj\Debug\SYAMSIR_2109106090_T6.Loading.resources
+C:\Users\Syamsir-Sarul\source\repos\SYAMSIR_2109106090_T6\SYAMSIR_2109106090_T6\obj\Debug\SYAMSIR_2109106090_T6.Resources.resources
+C:\Users\Syamsir-Sarul\source\repos\SYAMSIR_2109106090_T6\SYAMSIR_2109106090_T6\bin\Debug\SYAMSIR_2109106090_T6.exe.config
+C:\Users\Syamsir-Sarul\source\repos\SYAMSIR_2109106090_T6\SYAMSIR_2109106090_T6\bin\Debug\SYAMSIR_2109106090_T6.exe
+C:\Users\Syamsir-Sarul\source\repos\SYAMSIR_2109106090_T6\SYAMSIR_2109106090_T6\bin\Debug\SYAMSIR_2109106090_T6.pdb
+C:\Users\Syamsir-Sarul\source\repos\SYAMSIR_2109106090_T6\SYAMSIR_2109106090_T6\bin\Debug\SYAMSIR_2109106090_T6.xml
+C:\Users\Syamsir-Sarul\source\repos\SYAMSIR_2109106090_T6\SYAMSIR_2109106090_T6\obj\Debug\SYAMSIR_2109106090_T6.exe
+C:\Users\Syamsir-Sarul\source\repos\SYAMSIR_2109106090_T6\SYAMSIR_2109106090_T6\obj\Debug\SYAMSIR_2109106090_T6.xml
+C:\Users\Syamsir-Sarul\source\repos\SYAMSIR_2109106090_T6\SYAMSIR_2109106090_T6\obj\Debug\SYAMSIR_2109106090_T6.pdb
+C:\Users\Syamsir-Sarul\source\repos\SYAMSIR_2109106090_T6\SYAMSIR_2109106090_T6\obj\Debug\SYAMSIR_2109106090_T6.Petugas.resources
+C:\Users\Syamsir-Sarul\source\repos\SYAMSIR_2109106090_T6\SYAMSIR_2109106090_T6\obj\Debug\SYAMSIR_2109106090_T6.FormDatabase.resources
+C:\Users\Syamsir-Sarul\source\repos\SYAMSIR_2109106090_T6\SYAMSIR_2109106090_T6\bin\Debug\dbBPJS.sdf
+C:\Users\Syamsir-Sarul\source\repos\SYAMSIR_2109106090_T6\SYAMSIR_2109106090_T6\obj\Debug\SYAMSIR_2109106090_T6.Grafik_Pengguna.resources
+C:\Users\Syamsir-Sarul\source\repos\SYAMSIR_2109106090_T6\SYAMSIR_2109106090_T6\obj\Debug\SYAMSIR_2109106090_T6.Laporan.resources
