@@ -14,3 +14,16 @@ C:\Users\Syamsir-Sarul\source\repos\SYAMSIR_2109106090_T6\SYAMSIR_2109106090_T6\
 C:\Users\Syamsir-Sarul\source\repos\SYAMSIR_2109106090_T6\SYAMSIR_2109106090_T6\bin\Debug\dbBPJS.sdf
 C:\Users\Syamsir-Sarul\source\repos\SYAMSIR_2109106090_T6\SYAMSIR_2109106090_T6\obj\Debug\SYAMSIR_2109106090_T6.Grafik_Pengguna.resources
 C:\Users\Syamsir-Sarul\source\repos\SYAMSIR_2109106090_T6\SYAMSIR_2109106090_T6\obj\Debug\SYAMSIR_2109106090_T6.Laporan.resources
+C:\Users\Syamsir-Sarul\source\repos\SYAMSIR_2109106090_T6\SYAMSIR_2109106090_T6\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\Syamsir-Sarul\source\repos\SYAMSIR_2109106090_T6\SYAMSIR_2109106090_T6\bin\Debug\System.Data.SqlServerCe.Entity.dll
+C:\Users\Syamsir-Sarul\source\repos\SYAMSIR_2109106090_T6\SYAMSIR_2109106090_T6\bin\Debug\System.Deployment.dll
+C:\Users\Syamsir-Sarul\source\repos\SYAMSIR_2109106090_T6\SYAMSIR_2109106090_T6\bin\Debug\System.Drawing.dll
+C:\Users\Syamsir-Sarul\source\repos\SYAMSIR_2109106090_T6\SYAMSIR_2109106090_T6\bin\Debug\System.Net.Http.dll
+C:\Users\Syamsir-Sarul\source\repos\SYAMSIR_2109106090_T6\SYAMSIR_2109106090_T6\bin\Debug\System.Windows.Forms.DataVisualization.dll
+C:\Users\Syamsir-Sarul\source\repos\SYAMSIR_2109106090_T6\SYAMSIR_2109106090_T6\bin\Debug\System.Windows.Forms.dll
+C:\Users\Syamsir-Sarul\source\repos\SYAMSIR_2109106090_T6\SYAMSIR_2109106090_T6\bin\Debug\System.Xml.dll
+C:\Users\Syamsir-Sarul\source\repos\SYAMSIR_2109106090_T6\SYAMSIR_2109106090_T6\bin\Debug\System.Xml.Linq.dll
+C:\Users\Syamsir-Sarul\source\repos\SYAMSIR_2109106090_T6\SYAMSIR_2109106090_T6\obj\Debug\SYAMSIR_2109106090_T6.vbprojResolveAssemblyReference.cache
+C:\Users\Syamsir-Sarul\source\repos\SYAMSIR_2109106090_T6\SYAMSIR_2109106090_T6\bin\Debug\System.Data.DataSetExtensions.dll
+C:\Users\Syamsir-Sarul\source\repos\SYAMSIR_2109106090_T6\SYAMSIR_2109106090_T6\bin\Debug\System.Data.dll
+C:\Users\Syamsir-Sarul\source\repos\SYAMSIR_2109106090_T6\SYAMSIR_2109106090_T6\bin\Debug\System.dll
